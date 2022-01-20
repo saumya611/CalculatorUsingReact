@@ -1,0 +1,2 @@
+export const FETCH_EASTERLIST = 'FETCH_EASTERLIST';
+export const LISTS_FAILED = 'LISTS_FAILED';

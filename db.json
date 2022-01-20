@@ -1,0 +1,19 @@
+{
+    "lists": [
+        {
+            "id": "2",
+            "key": "2",
+            "link": "https://www.youtube.com/"
+        },
+        {
+            "id": "6",
+            "key": "6",
+            "link": "https://www.hotstar.com/in"
+        },
+        {
+            "id": "12",
+            "key": "12",
+            "link": "https://www.amazon.in/"
+        }
+    ]
+  }
