@@ -12,7 +12,10 @@ export const listsFailed = (errorMessage) => ({
 })
 
 export const fetchLists = () => (dispatch) => {
-
+    
+    // Below in return I used REST Api get HTTP Request 
+    // using fetch built-in React Package
+    
     return fetch(baseUrl+'lists')
         .then(response => {
             if(response.ok) {
