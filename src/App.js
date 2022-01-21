@@ -180,6 +180,9 @@ class App extends Component {
     return (
       <div className="App">
         {this.state.isModalOpen && <ModalOfEaster />}
+  
+      {/* I copied below structure of Calculator from web which 
+      i tried to find website but I didn't get otherwise I put link also */}
 
         <div className="calc-wrapper">
 
